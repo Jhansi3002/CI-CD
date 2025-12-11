@@ -1,4 +1,4 @@
-cat > Jenkinsfile <<EOF
+
 pipeline {
     agent any
     stages {
@@ -19,4 +19,4 @@ pipeline {
         }
     }
 }
-EOF
+
